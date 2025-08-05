@@ -1,0 +1,22 @@
+# Core Framework
+streamlit>=1.30.0
+
+# Data Handling
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.0
+xgboost>=1.5.0
+joblib>=1.1.0
+
+# Visualization
+plotly>=5.5.0
+matplotlib>=3.5.0
+seaborn>=0.11.2   # Optional: used for heatmaps
+
+# NLP & Text
+wordcloud>=1.8.1
+
+# Forecasting (used in visual insights)
+prophet>=1.1      # OR use 'cmdstanpy' backend
